@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Xavier
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on any game dev projects
+- 📫 You can reach me at arauzxavier0@gmail.com
